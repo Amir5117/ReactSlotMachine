@@ -1,0 +1,51 @@
+.slot-container {
+  margin-top: 20px;
+}
+
+.balance {
+  font-size: 22px;
+  margin-bottom: 10px;
+}
+
+.row {
+  display: flex;
+  justify-content: center;
+  font-size: 80px;
+  margin-bottom: 20px;
+}
+
+.slot-box {
+  width: 90px;
+  height: 90px;
+  border: 3px solid white;
+  margin: 0 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 15px;
+}
+
+.bet-input {
+  padding: 10px;
+  font-size: 18px;
+  border-radius: 6px;
+  margin-bottom: 20px;
+  text-align: center;
+  width: 120px;
+}
+
+.spin-btn {
+  padding: 14px 32px;
+  font-size: 20px;
+  background: gold;
+  border: none;
+  border-radius: 12px;
+  cursor: pointer;
+  margin-bottom: 15px;
+  font-weight: bold;
+}
+
+.message {
+  font-size: 22px;
+  margin-top: 10px;
+}
